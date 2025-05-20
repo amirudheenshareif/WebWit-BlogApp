@@ -1,0 +1,37 @@
+export const blogPagesData = [
+    {
+        id: 1,
+        title: "A Social Media App for College Collaboration",
+        summary: "A web app idea to help students collaborate effectively by addressing networking gaps within college environments.",
+        sections: [
+          {
+            heading: "The Problem",
+            content: "Finding the right people to collaborate with in college is not as easy as it sounds. Many students struggle to connect with peers who share similar goals and skills. Most students only start sharing their work or projects when placement season arrives, and by then, the chance to collaborate and grow together has already passed. Also, most of us don't fall into that lucky category of  “Extroverts with strong technical skills”. Those are the ones who can effortlessly communicate ideas, find the right partners, and collaborate with bright, tech-minded peers. They naturally find their circle without even trying. But for the rest of us ? It's not that easy. We have ideas too , maybe even the better ones , but we don't know how to find the right ears.Of course, platforms like LinkedIn and Discord already exist, but they're not built for this. LinkedIn feels too formal and intimidating for early-stage networking, and Discord is more suited for casual conversations rather than structured collaboration. What's missing is a space where students can easily connect based on shared goals and skills."
+          },
+          {
+            heading: "College-Specific Feed",
+            content: "A college-specific feed would allow students to see only posts and updates from their own college which would feel more relevant and less overwhelming like Linkedin. The feed would be filled with projects, achievements, and study-related content to keep students informed and inspired. One thing I've personally noticed is that hackathon-related content is scattered everywhere like Instagram stories, WhatsApp forwards, or some random Discord server. There is no structured place to find everything related to hackathon, like how many are happening around us. If this app could bring all of that into one place through a college-specific feed, it would be a huge step up. Students wouldn't have to go hunting for these opportunities, they'd just show up in the feed, right where they already are."
+          },
+          {
+            heading: "Project and Skill Showcase",
+            content: "Students would be able to create detailed profiles to highlight their skills, showcase their github or share the outcomes of their projects which  creates a LinkedIn-like social proof within the college environment. This would motivate students to improve their skills and share their progress. Another idea I really like is including a ranking system to make project participation more engaging. But unlike big platforms like LeetCode, where we're competing with strangers globally, this ranking would be based on peers we actually know like classmates, batchmates, college seniors. That makes it more real and motivating. For the basis of ranking, it could be a combination of things like Weekly or monthly challenge completions, Peer feedback or upvotes on posted projects, Number of collaborations or team-based activities, Even hackathon participation tracked through the platform.This kind of system would keep the community active and push students to actually work on and complete projects, not just plan them and forget. It brings a friendly kind of competition into college life that can actually drive output."
+          },
+          {
+            heading: "Peer Collaboration and Networking",
+            content: "This is something I've personally struggled with, coming from a non-CS background, it's really hard to find like-minded peers to work with on tech projects. There's often a gap between departments, and this can make transitioning into IT or CS-related fields even more difficult. I always wished there was a space where I could just share what I'm working on, and maybe find someone from CS who's interested in collaborating. With a platform like this, it wouldn't matter what your department is, you'd have a place to post your work, find teammates, and maybe even join a hackathon as a complete group. Also, not everyone is confident enough to speak up in a seminar or paper presentation. But when they post something online, it's different. They're more comfortable, more themselves. If this app is used not just by students but even by faculty, it can really give that 'silent' student a chance to shine. Their work gets visibility, they feel like they're part of the college culture, and that can really boost their confidence."
+          },
+          {
+            heading: "Challenges",
+            content: "One of the biggest hurdles would be getting students to actually use the app and keep using it. Even if the idea sounds good on paper, people won't sign up unless they trust it. Things like privacy, data security, and even just wondering “Will anyone I know be on here?” can be blockers. Especially in college, where students already have a bunch of apps and platforms fighting for their attention, it's easy for something new to get ignored. Another major challenge is the cold start problem. If someone opens the app for the first time and the feed feels empty or dead, they're probably not coming back. Without consistent, high-quality content, people might lose interest. Spammy posts or irrelevant updates could also turn people off fast."
+          },
+          {
+            heading: "Solutions",
+            content: "To get students to join and actually use the app, the sign-up process should feel simple and familiar, like using their college email to create an account. This also helps keep the platform clean and college-focused. Small rewards like badges, ranks, or showing their name on a leaderboard can make users feel appreciated and noticed, especially in the early days. For the feed to feel alive from the start, it can be filled with a few sample projects, interesting hackathon posts, or popular content from other colleges. This gives new users something to look at right away and helps them understand what kind of posts they can expect or share. Even showing small things like “45 people viewed this project” or “10 people bookmarked this challenge” can make a big difference in making the app feel active."
+          },
+          {
+            heading: "Conclusion",
+            content: "Even though there are challenges and limits, I feel it is important to share this idea because with the right approach, it might actually work. The need is real. Students want opportunities, but many don’t know where to look or how to get started. If we build the app based on how students actually behave, like making it easy to join, giving helpful rewards, and showing useful content, it can become valuable right from the beginning. From a business view, this is not just a fun tool. It can grow into a strong student network, help more people join through word of mouth, and even open doors to work with colleges, student clubs, or hiring platforms. Things like peer rankings, teamwork features, and clear info about hackathons can help students stay interested and active if done well."
+          }
+        ]
+      },
+]
